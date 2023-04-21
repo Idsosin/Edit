@@ -1,0 +1,33 @@
+body{
+    background-image:url("../static/background.jpg");
+    padding-left: 40px;
+}
+h1{
+    font-family:"Arial";
+    font-size: 24px;
+    text-decoration-line:underline;
+
+}
+P, Ol{
+    font-family: "Times New Roman";
+    font-size: 12px;
+
+}
+a{
+    color:blue;
+}
+aside a{
+    transition: transform .100s ease;
+}
+aside a:hover{
+    transform: scale(1.1)
+}
+a:visited{
+    color:#900000;
+}
+IMG{
+    border:1px solid#000000;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 0px;
+}
