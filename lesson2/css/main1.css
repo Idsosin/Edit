@@ -1,6 +1,7 @@
 body{
     background-image:url("../static/background.jpg");
-    padding-left: 40px;
+    padding-left: 60px;
+    background-size: 100%
 }
 h1{
     font-family:"Arial";
@@ -19,10 +20,7 @@ a{
 aside a{
     transition: transform .100s ease;
 }
-aside a:hover{
-    transform: scale(1.1)
-}
-a:visited{
+a : visited{
     color:#900000;
 }
 IMG{

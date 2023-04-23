@@ -1,0 +1,35 @@
+body {
+    width: 900px
+}
+body {
+  background-color: #FFFFCC;
+}
+h1 {
+    font-size: 24px;
+    font-family: "Times New Roman";
+}
+h2 {
+    font-size: 20px;
+    font-family: "Times New Roman";
+}
+p{
+    font-size: 12px;
+    font-family: "Century Gothic";
+}
+IMG{
+    border:5px solid#FFCC00;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 0px;
+}
+a {
+   color: black;
+   text-decoration:none;
+}
+a:visited {
+   color:#002000;
+}
+a:hover {
+ color: green;
+ text-decoration:underline;
+}
